@@ -4,3 +4,6 @@ working directory -> stagging area -> local repo. -> remote repo.
 
  2nd version try
  
+ error!!!
+
+ 
