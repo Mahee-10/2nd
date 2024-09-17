@@ -6,4 +6,4 @@ working directory -> stagging area -> local repo. -> remote repo.
  
  error!!!
 
- 
+ error fixed hurrah
